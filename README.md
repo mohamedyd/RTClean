@@ -1,5 +1,9 @@
 # RTClean
 
+Daniel Del Guido (University of Stuttgart), Tim Schubert (University of Stuttgart), and Mohamed Abdelaal (Software AG), 
+RTClean: Context-aware Tabular Data Cleaning using Real-time OFDs.
+Published at the 2023 IEEE Int. Conf. on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)
+
 This is a prototypical implementation of a concept to extract dependencies from an ontology to improve existing error detection methods.
 Those dependencies include new types upon existing _Denial Dependency_ and _Matching Dependency_:
 * Device-Link Dependency
